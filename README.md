@@ -1,1 +1,1 @@
-My Front End Development journey courtesy of Alx Africa
+A simple portfolio showcasing my frontend development journey with [ALX Africa](https://www.alxafrica.com/).
